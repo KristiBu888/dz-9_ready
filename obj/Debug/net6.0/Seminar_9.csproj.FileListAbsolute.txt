@@ -1,0 +1,15 @@
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\Знакомство с языком программирования С#\Csharp1\Seminar_9\bin\Debug\net6.0\Seminar_9.exe
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\Знакомство с языком программирования С#\Csharp1\Seminar_9\bin\Debug\net6.0\Seminar_9.deps.json
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\Знакомство с языком программирования С#\Csharp1\Seminar_9\bin\Debug\net6.0\Seminar_9.runtimeconfig.json
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\Знакомство с языком программирования С#\Csharp1\Seminar_9\bin\Debug\net6.0\Seminar_9.dll
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\Знакомство с языком программирования С#\Csharp1\Seminar_9\bin\Debug\net6.0\Seminar_9.pdb
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\Знакомство с языком программирования С#\Csharp1\Seminar_9\obj\Debug\net6.0\Seminar_9.csproj.AssemblyReference.cache
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\Знакомство с языком программирования С#\Csharp1\Seminar_9\obj\Debug\net6.0\Seminar_9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\Знакомство с языком программирования С#\Csharp1\Seminar_9\obj\Debug\net6.0\Seminar_9.AssemblyInfoInputs.cache
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\Знакомство с языком программирования С#\Csharp1\Seminar_9\obj\Debug\net6.0\Seminar_9.AssemblyInfo.cs
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\Знакомство с языком программирования С#\Csharp1\Seminar_9\obj\Debug\net6.0\Seminar_9.csproj.CoreCompileInputs.cache
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\Знакомство с языком программирования С#\Csharp1\Seminar_9\obj\Debug\net6.0\Seminar_9.dll
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\Знакомство с языком программирования С#\Csharp1\Seminar_9\obj\Debug\net6.0\refint\Seminar_9.dll
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\Знакомство с языком программирования С#\Csharp1\Seminar_9\obj\Debug\net6.0\Seminar_9.pdb
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\Знакомство с языком программирования С#\Csharp1\Seminar_9\obj\Debug\net6.0\Seminar_9.genruntimeconfig.cache
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\Знакомство с языком программирования С#\Csharp1\Seminar_9\obj\Debug\net6.0\ref\Seminar_9.dll
